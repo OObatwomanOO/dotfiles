@@ -46,6 +46,7 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+
 [user]
 	email = collet.anne@gmail.com
 	name = Anne Collet
